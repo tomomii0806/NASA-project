@@ -1,0 +1,107 @@
+*{
+    margin: 0;
+    padding: 0;
+}
+.left-container{
+    width: 194px;
+    float: left;
+    margin-top : 13px;
+    margin-left: 9px;
+}
+.total {
+    width: 194px;
+    height: 184px;
+    background-color: #1FA1B9;
+    border-radius: 5px;
+    color: white;
+}
+#title{
+    font-size: 20px;
+    padding-top: 25px;
+    padding-left: 20px;
+    padding-bottom: 10px;
+}
+#weight{
+    font-size: 50px;
+    padding-left: 20px;
+}
+#lb{
+    font-size: 35px;
+    text-align: right;
+    padding-right: 10px;
+    padding-bottom: 10px;
+}
+.container {
+    width: 194px;
+    height: 66px;
+    background-color: #EADEDE;
+    border-radius: 5px;
+    font-size: 25px;
+    margin-top: 13px;
+    cursor: pointer;
+}
+.container:hover{
+    background-color: #1FA1B9;
+}
+.container img{
+    float: left;
+    width: 40px;
+    margin-top: 13px;
+    margin-left: 8px;
+}
+.name {
+    float: left;
+    margin: 15px;
+}
+.map {  
+    float: right;
+    width: 1131px;
+    margin: 13px;
+}
+
+#one{
+    width: 40px;
+    position: absolute;
+    padding: 230px 0px 0px 400px ;
+}
+#two{
+    width: 40px;
+    position: absolute;
+    padding: 240px 0px 0px 500px;
+}
+#three{
+    width: 40px;
+    position: absolute;
+    padding: 220px 0px 0px 650px;
+}
+#four{
+    width: 40px;
+    position: absolute;
+    padding: 500px 0px 0px 700px;
+}
+#five{
+    width: 40px;
+    position: absolute;
+    padding: 480px 0px 0px 750px;
+}
+#six{
+    width: 40px;
+    position: absolute;
+    padding: 230px 0px 0px 930px;
+}
+#seven{
+    width: 40px;
+    position: absolute;
+    padding: 470px 0px 0px 200px;
+}
+.date{
+    color: white;
+    font-size: 20px;
+    text-align: center;
+    padding-top: 18px;
+    background-color: #1FA1B9;
+    width: 220px;
+    height: 45px;
+    position: absolute;
+    right: 0;
+}
