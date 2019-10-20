@@ -118,9 +118,9 @@
     width: 100px;
 }
 #drone{
-    font-size: 40px;
+    font-size: 35px;
     line-height: 80px;
-    padding-left: 70px;
+    padding-left: 40px;
 }
 .battery{
     float: right;
